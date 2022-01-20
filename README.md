@@ -3,11 +3,11 @@
 
 Overview of the analysis: Explain the purpose of this analysis.
 
-Alphabet Soup is an organization that attempts to protect the environment, imporves people's well-being and unify the world by investing over $10B in charities. To that end, they wish to be as accurate as possoble in judgeing the chances of success of charities to fulfull their mission with their investment. TThe purpose of this anlaysis is the use machine learning and neural networks to identify whether a charity should receive donations or is high risk.
+Alphabet Soup is an organization that attempts to protect the environment, improve people's well-being and unify the world by investing over $10B in charities. To that end, they wish to be as accurate as possoble in judging the chances of success of charities to fulfull their mission with their investment. The purpose of this anlaysis is the use machine learning and neural networks to identify whether a charity should receive donations or is high risk.
 
 Results:
 
-Data Preprocessing What variable(s) are considered the target(s) for your model? The target for this research was to determine which charities can be dtermened to be "Is Succesful"
+Data Preprocessing What variable(s) are considered the target(s) for your model? The target for this research was to determine which charities can be determened to be "Is Succesful"
 
 What variable(s) are considered to be the features for your model? The vairables for this model include application tyupe, affiliation, classification, use case, organization, income amount and special cosiderations.
 
