@@ -3,7 +3,7 @@
 
 Overview of the analysis: Explain the purpose of this analysis.
 
-Aplhabet Soup is an organization that attempts to protect the environment, imporves people's well-being and unify the world by investing over $10B in charities. To that end, they wish to be as accurate as possoble in judgeing the chances of success of charities to fulfull their mission with their investment. TThe purpose of this anlaysis is the use machine learning and neural networks to identify whether a charity should receive donations or is high risk.
+Alphabet Soup is an organization that attempts to protect the environment, imporves people's well-being and unify the world by investing over $10B in charities. To that end, they wish to be as accurate as possoble in judgeing the chances of success of charities to fulfull their mission with their investment. TThe purpose of this anlaysis is the use machine learning and neural networks to identify whether a charity should receive donations or is high risk.
 
 Results:
 
